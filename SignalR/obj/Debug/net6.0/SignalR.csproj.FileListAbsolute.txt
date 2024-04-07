@@ -1,0 +1,79 @@
+D:\DEMO\SignalR\SignalR\bin\Debug\net6.0\appsettings.Development.json
+D:\DEMO\SignalR\SignalR\bin\Debug\net6.0\appsettings.json
+D:\DEMO\SignalR\SignalR\bin\Debug\net6.0\SignalR.staticwebassets.runtime.json
+D:\DEMO\SignalR\SignalR\bin\Debug\net6.0\SignalR.exe
+D:\DEMO\SignalR\SignalR\bin\Debug\net6.0\SignalR.deps.json
+D:\DEMO\SignalR\SignalR\bin\Debug\net6.0\SignalR.runtimeconfig.json
+D:\DEMO\SignalR\SignalR\bin\Debug\net6.0\SignalR.dll
+D:\DEMO\SignalR\SignalR\bin\Debug\net6.0\SignalR.pdb
+D:\DEMO\SignalR\SignalR\obj\Debug\net6.0\SignalR.csproj.AssemblyReference.cache
+D:\DEMO\SignalR\SignalR\obj\Debug\net6.0\SignalR.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEMO\SignalR\SignalR\obj\Debug\net6.0\SignalR.AssemblyInfoInputs.cache
+D:\DEMO\SignalR\SignalR\obj\Debug\net6.0\SignalR.AssemblyInfo.cs
+D:\DEMO\SignalR\SignalR\obj\Debug\net6.0\SignalR.csproj.CoreCompileInputs.cache
+D:\DEMO\SignalR\SignalR\obj\Debug\net6.0\SignalR.MvcApplicationPartsAssemblyInfo.cache
+D:\DEMO\SignalR\SignalR\obj\Debug\net6.0\SignalR.RazorAssemblyInfo.cache
+D:\DEMO\SignalR\SignalR\obj\Debug\net6.0\SignalR.RazorAssemblyInfo.cs
+D:\DEMO\SignalR\SignalR\obj\Debug\net6.0\staticwebassets.build.json
+D:\DEMO\SignalR\SignalR\obj\Debug\net6.0\staticwebassets.development.json
+D:\DEMO\SignalR\SignalR\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\DEMO\SignalR\SignalR\obj\Debug\net6.0\scopedcss\bundle\SignalR.styles.css
+D:\DEMO\SignalR\SignalR\obj\Debug\net6.0\scopedcss\projectbundle\SignalR.bundle.scp.css
+D:\DEMO\SignalR\SignalR\obj\Debug\net6.0\SignalR.dll
+D:\DEMO\SignalR\SignalR\obj\Debug\net6.0\refint\SignalR.dll
+D:\DEMO\SignalR\SignalR\obj\Debug\net6.0\SignalR.pdb
+D:\DEMO\SignalR\SignalR\obj\Debug\net6.0\SignalR.genruntimeconfig.cache
+D:\DEMO\SignalR\SignalR\obj\Debug\net6.0\ref\SignalR.dll
+D:\DEMO\SignalR\SignalR\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\DEMO\SignalR\SignalR\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\DEMO\SignalR\SignalR\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\DEMO\SignalR\SignalR\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+D:\DEMO\SignalR\SignalR\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\DEMO\SignalR\SignalR\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+D:\DEMO\SignalR\SignalR\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\DEMO\SignalR\SignalR\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+D:\DEMO\SignalR\SignalR\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DEMO\SignalR\SignalR\bin\Debug\net6.0\System.IO.Pipelines.dll
+D:\DEMO\SignalR\SignalR\obj\Debug\net6.0\SignalR.csproj.CopyComplete
+C:\Users\WIN 10\Downloads\SignalR25092022040339400\SignalR\SignalR\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\WIN 10\Downloads\SignalR25092022040339400\SignalR\SignalR\bin\Debug\net6.0\appsettings.json
+C:\Users\WIN 10\Downloads\SignalR25092022040339400\SignalR\SignalR\bin\Debug\net6.0\SignalR.staticwebassets.runtime.json
+C:\Users\WIN 10\Downloads\SignalR25092022040339400\SignalR\SignalR\bin\Debug\net6.0\SignalR.exe
+C:\Users\WIN 10\Downloads\SignalR25092022040339400\SignalR\SignalR\bin\Debug\net6.0\SignalR.deps.json
+C:\Users\WIN 10\Downloads\SignalR25092022040339400\SignalR\SignalR\bin\Debug\net6.0\SignalR.runtimeconfig.json
+C:\Users\WIN 10\Downloads\SignalR25092022040339400\SignalR\SignalR\bin\Debug\net6.0\SignalR.dll
+C:\Users\WIN 10\Downloads\SignalR25092022040339400\SignalR\SignalR\bin\Debug\net6.0\SignalR.pdb
+C:\Users\WIN 10\Downloads\SignalR25092022040339400\SignalR\SignalR\bin\Debug\net6.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\WIN 10\Downloads\SignalR25092022040339400\SignalR\SignalR\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\WIN 10\Downloads\SignalR25092022040339400\SignalR\SignalR\bin\Debug\net6.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\WIN 10\Downloads\SignalR25092022040339400\SignalR\SignalR\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\WIN 10\Downloads\SignalR25092022040339400\SignalR\SignalR\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\WIN 10\Downloads\SignalR25092022040339400\SignalR\SignalR\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\WIN 10\Downloads\SignalR25092022040339400\SignalR\SignalR\bin\Debug\net6.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\WIN 10\Downloads\SignalR25092022040339400\SignalR\SignalR\bin\Debug\net6.0\Microsoft.Extensions.Features.dll
+C:\Users\WIN 10\Downloads\SignalR25092022040339400\SignalR\SignalR\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\WIN 10\Downloads\SignalR25092022040339400\SignalR\SignalR\bin\Debug\net6.0\System.IO.Pipelines.dll
+C:\Users\WIN 10\Downloads\SignalR25092022040339400\SignalR\SignalR\obj\Debug\net6.0\SignalR.csproj.AssemblyReference.cache
+C:\Users\WIN 10\Downloads\SignalR25092022040339400\SignalR\SignalR\obj\Debug\net6.0\SignalR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10\Downloads\SignalR25092022040339400\SignalR\SignalR\obj\Debug\net6.0\SignalR.AssemblyInfoInputs.cache
+C:\Users\WIN 10\Downloads\SignalR25092022040339400\SignalR\SignalR\obj\Debug\net6.0\SignalR.AssemblyInfo.cs
+C:\Users\WIN 10\Downloads\SignalR25092022040339400\SignalR\SignalR\obj\Debug\net6.0\SignalR.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\Downloads\SignalR25092022040339400\SignalR\SignalR\obj\Debug\net6.0\SignalR.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WIN 10\Downloads\SignalR25092022040339400\SignalR\SignalR\obj\Debug\net6.0\SignalR.RazorAssemblyInfo.cache
+C:\Users\WIN 10\Downloads\SignalR25092022040339400\SignalR\SignalR\obj\Debug\net6.0\SignalR.RazorAssemblyInfo.cs
+C:\Users\WIN 10\Downloads\SignalR25092022040339400\SignalR\SignalR\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\WIN 10\Downloads\SignalR25092022040339400\SignalR\SignalR\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\WIN 10\Downloads\SignalR25092022040339400\SignalR\SignalR\obj\Debug\net6.0\staticwebassets\msbuild.SignalR.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\WIN 10\Downloads\SignalR25092022040339400\SignalR\SignalR\obj\Debug\net6.0\staticwebassets\msbuild.build.SignalR.props
+C:\Users\WIN 10\Downloads\SignalR25092022040339400\SignalR\SignalR\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SignalR.props
+C:\Users\WIN 10\Downloads\SignalR25092022040339400\SignalR\SignalR\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SignalR.props
+C:\Users\WIN 10\Downloads\SignalR25092022040339400\SignalR\SignalR\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\WIN 10\Downloads\SignalR25092022040339400\SignalR\SignalR\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\WIN 10\Downloads\SignalR25092022040339400\SignalR\SignalR\obj\Debug\net6.0\scopedcss\bundle\SignalR.styles.css
+C:\Users\WIN 10\Downloads\SignalR25092022040339400\SignalR\SignalR\obj\Debug\net6.0\scopedcss\projectbundle\SignalR.bundle.scp.css
+C:\Users\WIN 10\Downloads\SignalR25092022040339400\SignalR\SignalR\obj\Debug\net6.0\SignalR.csproj.CopyComplete
+C:\Users\WIN 10\Downloads\SignalR25092022040339400\SignalR\SignalR\obj\Debug\net6.0\SignalR.dll
+C:\Users\WIN 10\Downloads\SignalR25092022040339400\SignalR\SignalR\obj\Debug\net6.0\refint\SignalR.dll
+C:\Users\WIN 10\Downloads\SignalR25092022040339400\SignalR\SignalR\obj\Debug\net6.0\SignalR.pdb
+C:\Users\WIN 10\Downloads\SignalR25092022040339400\SignalR\SignalR\obj\Debug\net6.0\SignalR.genruntimeconfig.cache
+C:\Users\WIN 10\Downloads\SignalR25092022040339400\SignalR\SignalR\obj\Debug\net6.0\ref\SignalR.dll

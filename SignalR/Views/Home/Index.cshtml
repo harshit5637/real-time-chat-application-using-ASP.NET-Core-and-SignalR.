@@ -1,0 +1,35 @@
+﻿@page  
+<div class="container">  
+    <div class="row"> </div>  
+    <div class="row">  
+        <div class="col-md-12">  
+            <div class="col-md-6">  
+                <div class="col-md-3">User</div>  
+                <div class="col-md-9"><input type="text" id="userName" /></div>  
+            </div>  
+        </div>  
+        <div class="col-md-12">  
+            <div class="col-md-6">  
+                <div class="col-md-3">Message</div>  
+                <div class="col-md-9">  
+                    <input type="text" id="userMessage" />      
+                    <input type="button" id="sendMessage" value="Send Message" />  
+                </div>  
+            </div>  
+        </div>  
+    </div>  
+    <div class="row">  
+        <div class="col-12">  
+            <hr />  
+        </div>  
+    </div>  
+    <div class="row">  
+        <div class="col-6"> </div>  
+        <div class="col-6">  
+            <ul id="messagesList"></ul>  
+        </div>  
+    </div>  
+</div>  
+<script src="https://cdnjs.cloudflare.com/ajax/libs/aspnet-signalr/1.0.27/signalr.min.js" integrity="sha512-a+73ErrZPjhqOu0qbW1QLsenEF4pvDjmnd+Ws6hkDyJlrwAigOQAxQhIT+fPNFWScUvtJQvn+G535TT2C6/G4g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/aspnet-signalr/1.0.27/signalr.js" integrity="sha512-RnZfhh4QUtg97mSlY5mFfp/yqJpEUBmAUU6JI3xrOWshmw9CJB4ejsd7YTB15JmUWMHMB7s4NrqueF+zrskEtQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="~/js/chat.js"></script>
